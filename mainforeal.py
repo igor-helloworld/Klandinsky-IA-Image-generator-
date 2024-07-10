@@ -1,5 +1,6 @@
 import json
 import time
+#This is not the telegram bot,this only makes trhe base 64 code that you need to desencript and download trough a base 64 desencriptor online
 
 import requests
 import base64
